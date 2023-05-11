@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Screen shots:</h3>
+## Screen shots
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-
+## preview
 
 https://github.com/MagicCodes01/Magicpool_Market/assets/101273209/203183de-2711-4dda-9cb5-05af06add2d7
 
